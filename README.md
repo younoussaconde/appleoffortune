@@ -1,2 +1,2 @@
 # appleoffortune
-apple of fortune slot game
+apple Game
